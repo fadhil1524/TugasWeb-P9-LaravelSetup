@@ -1,0 +1,4 @@
+Taruh screenshot di folder ini lalu commit:
+ 1. welcome-page.png  -> http://127.0.0.1:8000 (welcome page Laravel bawaan, SEBELUM routes/web.php diganti)
+ 2. home.png, about.png, contact.png, hello.png -> halaman custom
+ 3. terminal-serve.png -> terminal saat php artisan serve berjalan
